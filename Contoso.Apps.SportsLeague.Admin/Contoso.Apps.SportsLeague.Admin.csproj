@@ -185,6 +185,9 @@
     <None Include="Properties\PublishProfiles\briar-contososportsadmin %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\briar-contososportsadmin %283%29.pubxml" />
     <None Include="Properties\PublishProfiles\briar-contososportsadmin %284%29.pubxml" />
+    <None Include="Properties\PublishProfiles\briar-contososportsadmin %285%29.pubxml" />
+    <None Include="Properties\PublishProfiles\briar-contososportsadmin-stagev2 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\briar-contososportsadmin-stagev2 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\briar-contososportsadmin.pubxml" />
     <None Include="Scripts\jquery-2.1.4.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
